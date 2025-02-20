@@ -9,8 +9,11 @@ public class CrowMoviment : MonoBehaviour
     public int milho;
     public int ultimoMilho = 0;
     public TMP_Text milhoText;
+    
     void Start()
     {
+       
+       
         
         
     }
@@ -29,7 +32,14 @@ public class CrowMoviment : MonoBehaviour
         
         if (collision.gameObject.CompareTag("Inimigo"))
         {
-            Destroy(transform.parent.gameObject); 
+            Destroy(transform.gameObject); 
+            SceneManager.LoadScene("GameOver");
+            
+            
+        }
+        if (collision.gameObject.CompareTag("Solo"))
+        {
+            Destroy(transform.gameObject); 
             SceneManager.LoadScene("GameOver");
             
             

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      corvo1_0: -7376293769050898248
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
