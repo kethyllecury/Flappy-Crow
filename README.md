@@ -8,10 +8,10 @@ O objetivo principal do jogo é coletar os milhos que aparecem pelo cenário, o 
 
 A cada milho que você coleta, a pontuação aumenta. Sua missão é ir o mais longe possível, sempre evitando os obstáculos e coletando o máximo de milhos.
 
-Características do Jogo
+# Características do Jogo
 
 Estilo de Gráficos: O jogo utiliza arte em pixel, com animações fluidas que dão vida ao corvo e aos cenários. O ambiente de jogo é simples, mas muito cativante. Obstáculos: Durante o jogo, surgem passáros, espantalhos e tratores que vão ficando mais rápidos à medida que você avança. Eles são obstáculos que precisam ser evitados a todo custo. Pontuação: Cada milho coletado aumenta sua pontuação. Seu objetivo é acumular o maior número possível de milhos antes de colidir com um obstáculo. Dificuldade Progressiva: O jogo vai ficando mais difícil conforme você avança, com a velocidade dos obstáculos aumentando e mais obstáculos surgindo.
 
-Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 Unity: O jogo é desenvolvido na Unity, uma das principais engines de desenvolvimento de jogos 2D e 3D. C#: A programação do jogo foi feita em C#, a linguagem padrão da Unity. Pixel Art: O estilo visual é feito em pixel art, inspirado em jogos de arcade clássicos.
