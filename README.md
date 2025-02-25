@@ -21,4 +21,5 @@ Dificuldade Progressiva: O jogo vai ficando mais difícil conforme você avança
 # Tecnologias Utilizadas
 
 Unity: O jogo é desenvolvido na Unity, uma das principais engines de desenvolvimento de jogos 2D e 3D. C#: A programação do jogo foi feita em C#, a linguagem padrão da Unity.
+
 Pixel Art: O estilo visual é feito em pixel art, inspirado em jogos de arcade clássicos.
